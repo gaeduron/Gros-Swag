@@ -1,0 +1,64 @@
+body {
+  font-weight: 100;
+  font-size: 16px;
+  line-height: 1.4;
+}
+#header {
+  color: #828282;
+  padding: 50px;
+}
+h2 {
+  font-weight: 200;
+  font-size: 25px;
+}
+
+.bg-blue {
+  width: auto;
+  padding: 50px;
+  background-color: #385C75;
+  color: white;
+}
+
+.text-white h3 {
+  color: #DFF2D8
+}
+
+.text-white h2 {
+  color: #C6DEA6
+}
+
+.text-white p {
+  color: #DFF2D8
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+.card-white p{
+  color: #385C75;
+}
+.card-white h3{
+  color: #385C75;
+}
+
+
+
+
+.bg-2 {
+  width: auto;
+  padding: 50px;
+  background-color: #FCF7F8;
+  color: white;
+}
+
+.bg-2 h2{
+  color:#C6DEA6;
+}
+
+.fit {
+  background-size: cover;
+}

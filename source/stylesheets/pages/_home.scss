@@ -1,0 +1,106 @@
+body {
+  font-weight: 100;
+  font-size: 16px;
+  line-height: 1.4;
+  text-align: center;
+}
+#header {
+  color: #828282;
+  padding: 50px;
+}
+h2 {
+  font-weight: 200;
+  font-size: 25px;
+}
+
+.bg-blue {
+  width: auto;
+  padding: 70px;
+  background-color: #385C75;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-blue-sm {
+  width: auto;
+  padding: 120px;
+  background-color: #385C75;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-blue-md {
+  width: auto;
+  padding: 170px;
+  background-color: #385C75;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-blue-lg {
+  width: auto;
+  padding: 200px;
+  background-color: #385C75;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text-white h3 {
+  color: #DFF2D8
+}
+
+.text-white h2 {
+  color: #333232
+}
+
+.text-white p {
+  color: #333232
+}
+
+.card-white {
+  background: #86CD82;
+  padding: 20px;
+  box-shadow: 1px 1px 2px black;
+  border-radius: 4px;
+  margin: 20px 30px;
+}
+.card-white p{
+  color: #0F7255;
+}
+.card-white h3{
+  color: #0F7255;
+}
+
+
+
+
+.bg-2 {
+  width: auto;
+  padding: 50px;
+  background-color: #F6FEDB;
+  color: white;
+}
+
+.bg-2 h2{
+  color:#72A276;
+}
+
+.text-sized{
+  height: 3em;
+}
+
+@media (min-width: 748px) {
+  .bg-blue {
+    padding-top: 550px;
+  }
+}
+
+.bg-3 {
+  width: auto;
+  padding: 50px;
+  background-color: #F8D09A;
+  color: white;
+}

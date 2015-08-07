@@ -9,6 +9,7 @@
     <!-- For Bootstrap responsiveness -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "The Middleman" %></title>
@@ -26,7 +27,7 @@
 
   <body class="<%= page_classes %>">
 
-    <%= partial "navbar" %>
+   <!-- <%= partial "navbar" %> -->
     <%= yield %>
 
   </body>
